@@ -47,9 +47,9 @@ A full-stack link tracking app with click analytics, device fingerprinting, came
 
 ### 📊 GitHub Stats
 
-<p align="center">
+
   ![](https://streak-stats.demolab.com/?user=tw-santhush&theme=dark&hide_border=false)<br/>
-</p>
+
 
 ---
 
