@@ -48,11 +48,6 @@ A full-stack link tracking app with click analytics, device fingerprinting, came
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=tw-santhush&show_icons=true&theme=radical&hide_border=true&cache_seconds=0" />
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=tw-santhush&layout=compact&theme=radical&hide_border=true&cache_seconds=0" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-santhush&theme=radical&hide_border=true" />
 </p>
 
