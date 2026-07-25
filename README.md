@@ -47,9 +47,9 @@ A full-stack link tracking app with click analytics, device fingerprinting, came
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=tw-santhush&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tw-santhush&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tw-santhush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  ![](https://streak-stats.demolab.com/?user=tw-santhush&theme=dark&hide_border=false)<br/>
+</p>
 
 ---
 
