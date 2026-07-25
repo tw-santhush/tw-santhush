@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Wishal 👋</h1>
 
-<!--
-**tw-santhush/tw-santhush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ICT Undergraduate @ General Sir John Kotelawala Defence University (KDU) &nbsp;|&nbsp; Student Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:themiya0718574662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🎓 First-year ICT student at KDU (Intake 43), Bachelor of Technology Honours
+- 💻 Building practical tools — web platforms, automation apps, and small utilities
+- 🔨 Currently building **Local බාස්**, a directory platform connecting Sri Lankans with local tradespeople
+- 🌱 Learning full-stack development with PHP/MySQL alongside my C++/Kotlin background
+- 🎮 On the side: exploring game development with GDevelop
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+**[Local බාස් / FixMate](https://github.com/tw-santhush/group-09-FixMate-)**
+A responsive web platform connecting Sri Lankan residents with trusted local tradespeople — electricians, plumbers, painters, and mechanics. Built with PHP and MySQL to digitize an informal, word-of-mouth service industry.
+
+**[tracking-links](https://github.com/tw-santhush/tracking-links)**
+A full-stack link tracking app with click analytics, device fingerprinting, camera capture, and dual-source geolocation.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tw-santhush&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw-santhush&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-santhush&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Open to freelance work and collaboration on web & automation projects.</i></p>
