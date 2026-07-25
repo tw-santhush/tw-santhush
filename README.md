@@ -47,9 +47,7 @@ A full-stack link tracking app with click analytics, device fingerprinting, came
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tw-santhush&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
