@@ -14,7 +14,7 @@
 
 - 🎓 First-year ICT student at KDU (Intake 43), Bachelor of Technology Honours
 - 💻 Building practical tools — web platforms, automation apps, and small utilities
-- 🔨 Currently building **Local බාස්**, a directory platform connecting Sri Lankans with local tradespeople
+- 🔨 Currently building **FixMate**, a directory platform connecting Sri Lankans with local tradespeople
 - 🌱 Learning full-stack development with PHP/MySQL alongside my C++/Kotlin background
 - 🎮 On the side: exploring game development with GDevelop
 
