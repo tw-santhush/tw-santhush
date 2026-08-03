@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tw-santhush&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tw-santhush&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
