@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **First-year ICT student** at General Sir John Kotelawala Defence University (KDU) — Intake 43, Bachelor of Technology Honours
-- 💻 **Building practical tools** — web platforms, automation apps, and desktop utilities
-- 🔨 **Currently building** [**FixMate**](https://github.com/tw-santhush/group-09-FixMate-), a directory platform connecting Sri Lankans with local tradespeople
-- 🚀 **Recently released** [**NetSplit**](https://github.com/tw-santhush/NetSplit) — a Windows app that routes specific apps through specific network adapters
-- 🌱 **Learning** full-stack development with PHP/MySQL alongside my C++/Kotlin foundation
-- 🎮 On the side: exploring game development with GDevelop
+- 🎓 **First-year ICT student** at General Sir John Kotelawala Defence University (KDU) – Intake 43, Bachelor of Technology Honours  
+- 💻 Passionate about building **practical tools** – from web platforms and automation scripts to desktop utilities  
+- 🔨 Currently working on **FixMate**, a directory platform connecting Sri Lankans with trusted local tradespeople  
+- 🚀 Recently released **NetSplit** – a Windows app that routes specific apps through specific network adapters  
+- 🌱 Continuously expanding my full-stack skills with PHP/MySQL, alongside a strong foundation in C++, Kotlin, and Python  
+- 🎮 Exploring game development with GDevelop in my spare time
 
 ---
 
@@ -40,11 +40,14 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[NetSplit](https://github.com/tw-santhush/NetSplit)** | Windows desktop app that routes specific applications through specific network adapters. Live traffic monitor, dark/light themes, system tray support. | Python, pywebview, psutil, Inno Setup |
-| **[FixMate](https://github.com/tw-santhush/group-09-FixMate-)** | A responsive web platform connecting Sri Lankans with trusted local tradespeople — electricians, plumbers, painters, and mechanics. | PHP, MySQL, HTML, CSS, JavaScript |
-| **[tracking-links](https://github.com/tw-santhush/tracking-links)** | Full-stack link tracking app with click analytics, device fingerprinting, camera capture, and dual-source geolocation. | JavaScript, HTML, CSS |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **[NetSplit](https://github.com/tw-santhush/NetSplit)** | Windows desktop app that routes specific applications through specific network adapters. Live traffic monitor, dark/light themes, system tray support. | Python, pywebview, psutil, Inno Setup | [Repo](https://github.com/tw-santhush/NetSplit) |
+| **[FixMate](https://github.com/tw-santhush/group-09-FixMate-)** | Responsive web platform connecting Sri Lankans with trusted local tradespeople – electricians, plumbers, painters, and mechanics. | PHP, MySQL, HTML, CSS, JavaScript | [Repo](https://github.com/tw-santhush/group-09-FixMate-) |
+| **[tracking-links](https://github.com/tw-santhush/tracking-links)** | Full-stack link tracking app with click analytics, device fingerprinting, camera capture, and dual-source geolocation. | JavaScript, HTML, CSS | [Repo](https://github.com/tw-santhush/tracking-links) |
+| **[birthday-reminder-android](https://github.com/tw-santhush/birthday-reminder-android)** | Android app to manage and remind you of upcoming birthdays – Kotlin-based with a clean interface. | Kotlin, Android SDK | [Repo](https://github.com/tw-santhush/birthday-reminder-android) |
+| **[img2text](https://github.com/tw-santhush/img2text)** | CLI tool to convert any image into high‑fidelity ASCII text art with gamma correction and contrast stretching. | Python | [Repo](https://github.com/tw-santhush/img2text) |
+| **[YT-Shorts-Automation](https://github.com/tw-santhush/YT-Shorts-Automation)** *(private)* | Python automation tool for generating and managing YouTube Shorts content. | Python | Private |
 
 ---
 
@@ -62,17 +65,18 @@
 
 ### 🎯 Current Focus
 
-- 🔨 Finishing and polishing **NetSplit** — preparing for public release
-- 🌐 Building **FixMate** into a fully functional directory platform
-- 📚 Deepening my knowledge of **full-stack development**
+- 🔨 **Polishing NetSplit** – finalizing features and preparing for a public release  
+- 🌐 **Scaling FixMate** – transforming the prototype into a fully functional directory platform  
+- 📚 **Deepening full-stack knowledge** – especially in PHP/MySQL and modern JavaScript frameworks  
+- 🤝 **Open to collaboration** – always interested in web, automation, and Android projects
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: [themiya0718574662@gmail.com](mailto:themiya0718574662@gmail.com)
+- 📧 Email: [themiya0718574662@gmail.com](mailto:themiya0718574662@gmail.com)  
 - 💻 GitHub: [github.com/tw-santhush](https://github.com/tw-santhush)
 
 ---
 
-<p align="center"><i>Open to freelance work and collaboration on web & automation projects.</i></p>
+<p align="center"><i>Open to freelance work and collaboration on web, automation, and Android projects.</i></p>
