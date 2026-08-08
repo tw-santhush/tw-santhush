@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Wishal 👋</h1>
+<h1 align="center">Wishal Santhush</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=ICT+Undergraduate+%40+KDU;Student+Developer;Building+Tools+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI-Assisted+Developer+%40+KDU;Shipping+Real-World+Products;Learning+Full-Stack+%26+System+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,28 +13,29 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **First-year ICT student** at General Sir John Kotelawala Defence University (KDU) – Intake 43, Bachelor of Technology Honours  
-- 💻 Passionate about building **practical tools** – from web platforms and automation scripts to desktop utilities  
-- 🔨 Currently working on **FixMate**, a directory platform connecting Sri Lankans with trusted local tradespeople  
-- 🚀 Recently released **NetSplit** – a Windows app that routes specific apps through specific network adapters  
-- 🌱 Continuously expanding my full-stack skills with PHP/MySQL, alongside a strong foundation in C++, Kotlin, and Python  
-- 🎮 Exploring game development with GDevelop in my spare time
+- 🎓 **First-year ICT student** at General Sir John Kotelawala Defence University (KDU) – Intake 43, Bachelor of Technology Honours
+- 🤖 **AI-Assisted Developer** – I architect, prompt, debug, and ship functional applications by combining product thinking with modern AI coding tools
+- 🔨 **Owner of the full product lifecycle** – from requirement gathering and UI/UX planning to testing, debugging, and deployment
+- 🚀 My projects (FixMate, NetSplit, tracking-links) are real, working tools built through **iterative prompt engineering, system integration, and hands-on code review**
+- 🧠 Currently deepening my understanding of **networking, databases, and algorithms** to better guide AI outputs and debug complex systems independently
+- 🎯 **Goal**: Transition from AI-assisted builder to a fully independent full-stack engineer by the end of my degree
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Development Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-00ADD8?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Architecture-FF6F00?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Prototyping-4479A1?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_Version_Control-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+**Languages I actively build with (AI-assisted):**  
+PHP, Python, JavaScript, Kotlin, C++ (foundational knowledge)
+
+**Currently learning:** Low-level networking, data structures, and writing clean, maintainable code from scratch.
 
 ---
 
@@ -51,15 +52,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📦 Project Velocity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tw-santhush&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+- **7 functional repositories** shipped in under 4 months  
+- **3 full-stack applications** (FixMate, tracking-links, NetSplit) delivered to working prototypes  
+- **1 Android app** (birthday-reminder) built and published  
+- **2 automation tools** (img2text, YT-Shorts-Automation) created for personal workflow optimization  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tw-santhush&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
+> *"I prioritize shipping working software over perfect code. I use AI to accelerate implementation, and I personally review, test, and debug every line before it ships."*
 
 ---
 
@@ -67,7 +67,7 @@
 
 - 🔨 **Polishing NetSplit** – finalizing features and preparing for a public release  
 - 🌐 **Scaling FixMate** – transforming the prototype into a fully functional directory platform  
-- 📚 **Deepening full-stack knowledge** – especially in PHP/MySQL and modern JavaScript frameworks  
+- 📚 **Strengthening fundamentals** – practicing data structures, algorithms, and networking concepts without AI assistance to build true independence  
 - 🤝 **Open to collaboration** – always interested in web, automation, and Android projects
 
 ---
